@@ -5,10 +5,7 @@ Built with 💜 using **HTML**, **Tailwind CSS**, and **JavaScript**, it’s cle
 
 ---
 
-### 🌐 Live Demo  
-👉 **[Check it out here!](https://alisonpinto.github.io/Discord_Timer/)**
 
----
 
 ### ✨ Features
 - ⏱️ **Horizontal Timer** — Start, Pause, Reset, and track your sessions  
@@ -30,7 +27,4 @@ Built with 💜 using **HTML**, **Tailwind CSS**, and **JavaScript**, it’s cle
 
 ---
 
-### 🚀 Run It Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Alisonpinto/Discord_Timer.git
+
